@@ -7,7 +7,7 @@ It allows users to add, manage, and delete daily tasks easily. The application u
 
 This project demonstrates core front-end development concepts and is ideal for beginners learning JavaScript and DOM manipulation.
 
-Live Demo: smart-to-do-app-three.vercel.app
+Live Demo: https://smart-to-do-app-three.vercel.app/
 
 🚀 Features
 
